@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Serial Port:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Serial_Port_jar</output-path>
+    <root id="archive" name="Serial Port.jar">
+      <element id="module-output" name="Serial Port" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_212/jre/lib/ext/RXTXcomm.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
